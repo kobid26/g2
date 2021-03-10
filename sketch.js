@@ -17,7 +17,7 @@ function preload(){
 	gameOverimg = loadImage("imagesSounds/gameOver.png");
 	coinImg = loadImage("imagesSounds/coin.png")
 
-	//sounds
+	/*sounds*/
 	/*shootSound1.loadSound("i&s/shootSound.mp3");
 	lifeLost.loadSound("i&s/loseLife.mp3");
 	bgSound1.loadImage("i&s/bgSound.mp3");
