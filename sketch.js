@@ -8,14 +8,14 @@ function preload(){
 	//Loading Images And Sounds
 
 	//images
-	bg1 = loadImage("i&s/background2.png");
-	Jet1 = loadImage("i&s/ourJet.png");
-	Jet2 = loadImage("i&s/eneJet.png");
-	bullet1 = loadImage("i&s/ourBullet.png");
-	bullet2 = loadImage("i&s/oppBullet.png");
-	plives = loadImage("i&s/lives.png");
-	gameOverimg = loadImage("i&s/gameOver.png");
-	coinImg = loadImage("i&s/coin.png")
+	bg1 = loadImage("imagesSounds/background2.png");
+	Jet1 = loadImage("imagesSounds/ourJet.png");
+	Jet2 = loadImage("imagesSounds/eneJet.png");
+	bullet1 = loadImage("imagesSounds/ourBullet.png");
+	bullet2 = loadImage("imagesSounds/oppBullet.png");
+	plives = loadImage("imagesSounds/lives.png");
+	gameOverimg = loadImage("imagesSounds/gameOver.png");
+	coinImg = loadImage("imagesSounds/coin.png")
 
 	//sounds
 	/*shootSound1.loadSound("i&s/shootSound.mp3");
